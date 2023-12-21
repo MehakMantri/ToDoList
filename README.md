@@ -24,6 +24,9 @@ The Todo List app simplifies your day! 🚀 Stay organized, manage tasks effortl
 📸 Screenshots
 
 💻 Technologies Used
+
 -HTML
+
 -CSS
+
 -JavaScript
