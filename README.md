@@ -22,6 +22,8 @@ The Todo List app simplifies your day! 🚀 Stay organized, manage tasks effortl
 🚀 Start managing your tasks!
 
 📸 Screenshots
+![image](https://github.com/MehakMantri/ToDoList/assets/114497437/1ade83a3-0d02-4b1d-93b5-9def1c1482e7)
+
 
 💻 Technologies Used
 
